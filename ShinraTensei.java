@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package shinratensei;
+
 
 import java.io.File;
 import java.io.IOException;
@@ -15,15 +15,9 @@ import java.nio.file.Path;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- *
- * @author fonso
- */
+
 public class ShinraTensei {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) throws InterruptedException {
         String usuario = System.getProperty("user.name");
         String base = "C:\\Users\\"+usuario+"\\OneDrive\\";
