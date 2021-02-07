@@ -6,4 +6,4 @@ En el código fuente se tiene en cuenta que la víctima usa OneDrive, sin embarg
 Java 8
 
 # DISCLAIMER
-El autor de este programa no se ahce responsable de su uso del programa. Se ha publicado su código fuente para el estudio de su funcionamiento.
+El autor de este programa no se hace responsable de su uso. Se ha publicado su código fuente para el estudio de su funcionamiento.
